@@ -2,7 +2,7 @@
 
 A clean, responsive, and fully functional simple calculator built from scratch using HTML, CSS, and vanilla JavaScript.
 
-🟢 [View Live Demo](#)
+🟢 [View Live Demo](https://tanmay-ctrl.github.io/Simple-calculator/)
 
 ## Features
 
